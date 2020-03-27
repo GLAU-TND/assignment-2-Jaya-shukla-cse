@@ -6,5 +6,11 @@
  */
 package problem1.mybst;
 // to implement BinarySearchTree
+
+import problem1.node.TreeNode;
+
 public class MyBinarySearchTree {
+    TreeNode root;
+    int count;
 }
+
